@@ -1,0 +1,10 @@
+
+1534;Maria Costa Neto;BMW;31/1/1999;6004;11224;6140;8104;9784;
+4435;Ana Rita Gomes Costa;MERCEDES;31/1/1999;5945;5585;12365;7265;11285;
+7483;Luís Nunes Martins;BTWIN;8/8/2015;6358;13858;10618;6658;11158;
+1826;Francisco Ferreira Conde;ford Transit;1/2/1965;5662;4162;4642;6022;1522;
+Rota dos Castelos: 150
+Rota das Pousadas:170
+Rota dos Lagos: 160
+Rota das Aldeias: 220
+Rota dos Rios: 200

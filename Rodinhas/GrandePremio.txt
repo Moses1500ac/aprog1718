@@ -1,0 +1,10 @@
+                LISTAGEM DE PRÉMIOS
+       Num                Nome     Idade Automovel    Total de Prémios
+
+      1826            Conde F.                  18             7180.0€
+      1534             Neto M.                  18             1620.0€
+      4435            Costa A.                   2             1620.0€
+      7483          Martins L.                  52              180.0€
+                                                                TOTAL   10600.0€
+
+ 9/12/2017
